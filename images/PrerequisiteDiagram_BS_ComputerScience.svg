@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg4495"
+   xml:space="preserve"
+   width="7.5520835in"
+   height="9.656724in"
+   viewBox="0 0 725.00004 927.0455"
+   sodipodi:docname="PrerequisiteDiagram_BS_ComputerScience.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+     id="metadata4501"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs4499"><marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3194"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"><path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3192" /></marker><marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always"><path
+         id="path1168"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" /></marker><marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true"><path
+         id="path1180"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" /></marker><marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true"><path
+         id="path1162"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" /></marker><pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" /><marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-4"
+       style="overflow:visible"
+       inkscape:isstock="true"><path
+         inkscape:connector-curvature="0"
+         id="path1168-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" /></marker></defs><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2159"
+     inkscape:window-height="2054"
+     id="namedview4497"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="2"
+     inkscape:cx="414.62482"
+     inkscape:cy="208.82546"
+     inkscape:window-x="2304"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4505"
+     inkscape:document-rotation="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" /><g
+     id="g4503"
+     inkscape:groupmode="layer"
+     inkscape:label="PrerequisiteDiagram_BS_ComputerScience"
+     transform="matrix(1.3333333,0,0,1.3333333,-45.72838,-68.072469)"><g
+   id="g4505"
+   transform="matrix(0.90198866,0,0,0.90198866,34.295677,51.053744)"><g
+   id="g4909"><path
+     d="m 102.48817,278.01733 99.4302,82.5339 -1.75037,60.55737"
+     style="fill:none;stroke:#000000;stroke-width:3.00004;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+     id="path4911"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc" /><path
+     d="m 202.47576,469.14726 15.33565,23.80865 0.59865,23.91282"
+     style="fill:none;stroke:#000000;stroke-width:3.00004;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-4)"
+     id="path4911-4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc" /></g><g
+   id="g4507"><path
+     d="m 31.418,517.418 h 96 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -96 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4509"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(53.671245,532.62007)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4513"
+   y="0"><tspan
+     x="0 10.487999 16.811998 22.751999 30.311998 33.023998 39.131996 45.203995"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4511">MATH 213</tspan></text>
+
+
+<text
+   transform="translate(53.014995,545.22007)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4519"
+   y="0"><tspan
+     x="0 6.1919994 10.199999 16.523998 22.823997 28.571997 34.871998 37.619995 40.367996 43.151997 47.159996 52.583996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4515">Probability </tspan><tspan
+     x="-3.2109358 2.5370638 8.8370628 15.137063 17.849062 23.357061 27.233061"
+     y="12.599999"
+     sodipodi:role="line"
+     id="tspan4517">and Statistics</tspan></text>
+
+
+<text
+   transform="translate(85.876056,557.82007)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4523"><tspan
+     x="0"
+     y="0"
+     id="tspan4521" /></text>
+
+
+<text
+   transform="translate(92.560056,557.82007)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4527"><tspan
+     x="0"
+     y="0"
+     id="tspan4525" /></text>
+
+
+<text
+   transform="translate(97.096055,557.82007)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4531"><tspan
+     x="0"
+     y="0"
+     id="tspan4529" /></text>
+
+
+<text
+   transform="translate(103.78005,557.82007)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4535"><tspan
+     x="0"
+     y="0"
+     id="tspan4533" /></text>
+
+
+<g
+   id="g4537"><path
+     d="m 1.418,1.418 h 600 v 96 h -600 z"
+     style="fill:none;stroke:#000000;stroke-width:2.83465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4539"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4541"><path
+     d="m 1.418,97.418 h 600 v 96 h -600 z"
+     style="fill:none;stroke:#000000;stroke-width:2.83465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4543"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4545"><path
+     d="m 1.418,193.418 h 600 v 96 h -600 z"
+     style="fill:none;stroke:#000000;stroke-width:2.83465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4547"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4549"><path
+     d="m 1.418,289.418 h 600 v 96 h -600 z"
+     style="fill:none;stroke:#000000;stroke-width:2.83465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4551"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4553"><path
+     d="m 1.418,385.418 h 600 v 96 h -600 z"
+     style="fill:none;stroke:#000000;stroke-width:2.83465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4555"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4557"><path
+     d="m 1.418,481.418 h 600 v 96 h -600 z"
+     style="fill:none;stroke:#000000;stroke-width:2.83465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4559"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4561"><path
+     d="m 1.418,577.418 h 600 v 96 h -600 z"
+     style="fill:none;stroke:#000000;stroke-width:2.83465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4563"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4565"><path
+     d="m 1.418,673.418 h 600 v 96 h -600 z"
+     style="fill:none;stroke:#000000;stroke-width:2.83465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4567"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4569"><path
+     d="m 31.418,37.418 h 96 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -96 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4571"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(42.175136,58.404444)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4575"
+   y="0"><tspan
+     x="0 10.487999 16.811998 22.751999 30.311998 33.023998 39.131996 45.203995 51.275997 56.423996 62.531994 68.603996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4573">MATH 110/111</tspan></text>
+
+
+<text
+   transform="translate(41.706386,71.004443)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4579"
+   y="0"><tspan
+     x="0 6.3959994 12.719999 15.467999 18.215998 24.179998 29.759998 35.723995 38.435997 45.371998 48.119995 53.675995 59.639996 65.939995 69.899994"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4577">College Algebra</tspan></text>
+
+
+<g
+   id="g4585"><path
+     d="m 439.418,37.418 h 132 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -132 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4587"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(483.49724,58.35464)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4591"
+   y="0"><tspan
+     x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4589">CSCI 215</tspan></text>
+
+
+<text
+   transform="translate(452.87615,70.954639)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4595"
+   y="0"><tspan
+     x="0 6.1919994 10.199999 16.523998 22.163998 26.123999 31.871998 41.447998 51.023994 53.771996 60.071995 65.711998 68.423996 71.171997 77.471992 80.18399 87.119995 89.903992 92.651993 97.715988"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4593">Programming in Alice</tspan></text>
+
+
+<g
+   id="g4597"><path
+     d="m 259.418,37.418 h 132 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -132 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4599"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(304.05403,51.594685)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4603"
+   y="0"><tspan
+     x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4601">CSCI 217</tspan></text>
+
+
+<text
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4607"
+   y="64.194687"
+   x="325.08694"><tspan
+     sodipodi:role="line"
+     id="tspan4605"
+     style="text-align:center;text-anchor:middle"
+     x="325.08694"
+     y="64.194687">Practical Programming</tspan><tspan
+     sodipodi:role="line"
+     style="text-align:center;text-anchor:middle"
+     x="325.08694"
+     y="79.194687"
+     id="tspan1209">&amp; Problem Sovling</tspan></text>
+
+
+<text
+   transform="translate(355.79916,64.194684)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4611"><tspan
+     x="0"
+     y="0"
+     id="tspan4609" /></text>
+
+
+
+
+
+<g
+   id="g4619"><path
+     d="m 247.418,31.418 h 336 c 3.324,0 6,2.676 6,6 v 48 c 0,3.324 -2.676,6 -6,6 h -336 c -3.324,0 -6,-2.676 -6,-6 v -48 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4621"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(409.54892,64.435647)"
+   style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4625"
+   y="0"><tspan
+     x="0 6.8509998"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4623">or</tspan></text>
+
+
+<g
+   id="g4627"><path
+     d="m 19.418,703.418 h 288 c 3.324,0 6,2.676 6,6 v 48 c 0,3.324 -2.676,6 -6,6 h -288 c -3.324,0 -6,-2.676 -6,-6 v -48 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4629"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(157.54892,736.43572)"
+   style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4633"
+   y="0"><tspan
+     x="0 6.8509998"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4631">or</tspan></text>
+
+
+<g
+   id="g4635"><path
+     d="m 31.418,133.418 h 96 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -96 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4637"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(53.477872,154.92008)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4641"
+   y="0"><tspan
+     x="0 10.487999 16.811998 22.751999 30.311998 33.023998 39.131996 45.203995"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4639">MATH 130</tspan></text>
+
+
+<text
+   transform="translate(51.720064,167.52007)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4645"
+   y="0"><tspan
+     x="0 6.1919994 10.223999 16.187998 21.179998 26.927998 29.675997 34.739998 41.039997 43.787998 50.087997"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4643">Precalculus</tspan></text>
+
+
+<g
+   id="g4647"><path
+     d="m 307.418,133.418 h 132 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -132 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4649"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(351.49723,153.89469)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4653"
+   y="0"><tspan
+     x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4651">CSCI 235</tspan></text>
+
+
+<text
+   transform="translate(312.19254,166.49468)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4657"
+   y="0"><tspan
+     x="0 6.1919994 10.199999 16.523998 21.587997 27.551998 33.851997 40.151997 44.123997 49.871994 52.619995 55.331997 61.523994 65.555992 71.879997 77.519997 81.467995 87.215996 96.791992 106.36799 109.11599 115.41599"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4655">Procedural Programming</tspan></text>
+
+
+<text
+   transform="translate(53.609699,250.92007)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4665"
+   y="0"><tspan
+     x="0 10.487999 16.811998 22.751999 30.311998 33.023998 39.131996 45.203995"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4663">MATH 221</tspan></text>
+
+
+<text
+   transform="translate(56.387039,263.52007)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4669"
+   y="0"><tspan
+     x="0 6.3959994 12.143999 14.891998 19.955997 26.255999 29.003998 35.303997 39.995998 42.707996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4667">Calculus I</tspan></text>
+
+
+<g
+   id="g4671"><path
+     d="m 31.418,325.418 h 96 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -96 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4673"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(53.574552,346.92009)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4677"
+   y="0"><tspan
+     x="0 10.487999 16.811998 22.751999 30.311998 33.023998 39.131996 45.203995"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4675">MATH 222</tspan></text>
+
+
+<text
+   transform="translate(54.84018,359.52009)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4681"
+   y="0"><tspan
+     x="0 6.3959994 12.143999 14.891998 19.955997 26.255999 29.003998 35.303997 39.995998 42.707996 45.719997"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4679">Calculus II</tspan></text>
+
+
+<g
+   id="g4683"
+   transform="translate(-34.810721,-96.000324)"><path
+     d="m 163.418,517.418 h 108 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -108 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4685"
+     inkscape:connector-curvature="0" /></g><text
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4689"
+   x="156.66711"
+   y="442.91974"><tspan
+     x="156.66711 167.15511 173.47911 179.41911 186.97911 189.69112 195.7991 201.87111"
+     y="442.91974"
+     sodipodi:role="line"
+     id="tspan4687">MATH 330</tspan></text>
+
+
+<text
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4693"
+   x="129.17493"
+   y="455.51974"><tspan
+     x="129.17493 136.55492 139.30292 143.99492 149.05893 153.10292 158.99492 162.90692 168.87093 171.58292 181.83092 187.47092 191.47891 197.77892 203.74292 213.31891"
+     y="455.51974"
+     sodipodi:role="line"
+     id="tspan4691">Discrete Mathematics</tspan></text>
+
+
+<text
+   transform="translate(253.76967,551.52006)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4697"><tspan
+     x="0"
+     y="0"
+     id="tspan4695" /></text>
+
+
+<text
+   transform="translate(260.45367,551.52006)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4701" />
+
+
+<g
+   id="g4703"><path
+     d="m 79.418,181.418 v 48"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4705"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4707"
+   transform="rotate(-90)"><path
+     d="m -217.418,79.418 6,-6 -21,6 21,6 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4709"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4711"><path
+     d="m 307.418,229.418 h 132 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -132 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4713"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(352.27961,243.6064)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4717"
+   y="0"><tspan
+     x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4715">CSCI 325</tspan></text>
+
+
+<text
+   transform="translate(334.17414,256.2064)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4723"
+   y="0"><tspan
+     x="0 7.9439993 14.243999 17.112 23.075998 28.139997 31.811996 35.483997 43.427998 47.603996 50.387997 56.351994 62.531994 66.443993 72.407997"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4719">Object-Oriented</tspan><tspan
+     x="6.5039034 12.695903 16.703903 23.027903 28.667902 32.627903 38.3759 47.9519 57.527901 60.275898 66.575897"
+     y="12.599999"
+     sodipodi:role="line"
+     id="tspan4721">Programming</tspan></text>
+
+
+<g
+   id="g4725"><path
+     d="m 475.418,229.418 h 96 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -96 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4727"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(502.19472,249.90641)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4731"
+   y="0"><tspan
+     x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4729">CSCI 332</tspan></text>
+
+
+<text
+   transform="translate(475.01894,262.50641)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4735"
+   y="0"><tspan
+     x="0 6.9359994 13.235999 19.535999 22.283998 25.031998 30.995996 37.295998 40.007996 47.783997 53.687996 57.695995 66.155998 72.479996 76.655991 82.103996 84.887993 91.187996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4733">Applied Networking</tspan></text>
+
+
+<g
+   id="g4737"><path
+     d="m 151.418,229.418 h 132 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -132 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4739"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(196.15656,243.6064)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4743"
+   y="0"><tspan
+     x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4741">CSCI 301</tspan></text>
+
+
+<text
+   transform="translate(194.71516,256.2064)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4749"
+   y="0"><tspan
+     x="0 5.5079994 11.807999 16.103998 21.395998 27.299997 32.723999 35.435997 41.759998"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4745">Survey of</tspan><tspan
+     sodipodi:role="line"
+     id="tspan4747"
+     x="0"
+     y="15" /></text>
+
+
+<text
+   transform="translate(193.1635,268.8064)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4753"><tspan
+     x="0"
+     y="0"
+     id="tspan4751" /></text>
+
+
+<text
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4757"
+   x="217.54739"
+   y="268.8064"><tspan
+     sodipodi:role="line"
+     id="tspan4755"
+     x="217.54739"
+     y="268.8064">Scripting Languages</tspan></text>
+
+
+<g
+   id="g4759"
+   transform="translate(11.640945)"><path
+     d="m 223.418,325.418 h 132 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -132 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4761"
+     inkscape:connector-curvature="0" /></g><text
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4765"
+   x="279.13818"
+   y="345.89468"><tspan
+     x="279.13818 285.48618 291.15018 297.4982 300.69019 303.40219 309.47418 315.58218"
+     y="345.89468"
+     sodipodi:role="line"
+     id="tspan4763">CSCI 315</tspan></text>
+
+
+<text
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4769"
+   x="244.05226"
+   y="358.49466"><tspan
+     x="244.05226 251.43225 257.06024 260.93625 266.68427 269.39627 274.90427 278.91226 283.08826 289.38824 294.45224 298.49625 304.79626 308.82825 314.79227 317.50424 324.44025 330.74026 336.48825 339.23624 344.55225 349.24426 351.99225"
+     y="358.49466"
+     sodipodi:role="line"
+     id="tspan4767">Data Structure Analysis</tspan></text>
+
+
+<g
+   id="g4771"
+   transform="translate(13.303937)"><path
+     d="m 319.418,421.418 h 108 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -108 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4773"
+     inkscape:connector-curvature="0" /></g><text
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4777"
+   x="365.22031"
+   y="435.60638"><tspan
+     x="365.22031 371.5683 377.2323 383.58029 386.77231 389.48431 395.5563 401.66431"
+     y="435.60638"
+     sodipodi:role="line"
+     id="tspan4775">CSCI 495</tspan></text>
+
+
+<text
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4783"
+   x="335.31406"
+   y="448.20639"><tspan
+     x="335.31406 340.67807 345.99405 350.53006 354.44205 360.40607 369.98206 374.67407 377.38605 384.32205 390.62207 396.37006 399.11804 404.43405 409.12607 411.87405 416.56604 419.27805 425.02606 431.32605 437.62604"
+     y="448.20639"
+     sodipodi:role="line"
+     id="tspan4779">Systems Analysis and </tspan><tspan
+     x="335.31406"
+     y="463.20639"
+     sodipodi:role="line"
+     id="tspan4781" /></text>
+
+
+<text
+   transform="translate(345.59601,460.80639)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4787"><tspan
+     x="0"
+     y="0"
+     id="tspan4785" /></text>
+
+
+<text
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4791"
+   x="390.49445"
+   y="460.8064"><tspan
+     sodipodi:role="line"
+     id="tspan4789"
+     x="390.49445"
+     y="460.8064">Software Design</tspan></text>
+
+
+<g
+   id="g4793"><path
+     d="m 463.418,421.418 h 108 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -108 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4795"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(496.06869,441.8947)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4799"
+   y="0"><tspan
+     x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4797">CSCI 496</tspan></text>
+
+
+<text
+   transform="translate(460.74839,454.4947)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4803"
+   y="0"><tspan
+     x="0 5.5079994 11.471999 17.771999 20.519999 26.843998 31.019997 33.731998 39.731998 46.055996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4801">Senior Portfolio Review</tspan></text>
+
+
+<g
+   id="g4813"><path
+     d="m 79.418,277.418 v 48"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4815"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4817"
+   transform="rotate(-90)"><path
+     d="m -313.418,79.418 6,-6 -21,6 21,6 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4819"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4821"><path
+     d="m 463.418,517.418 h 108 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -108 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4823"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(496.34995,537.90639)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4827"
+   y="0"><tspan
+     x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4825">CSCI 497</tspan></text>
+
+
+<text
+   transform="translate(465.74058,550.50638)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4831"
+   y="0"><tspan
+     x="0 5.5079994 11.471999 17.771999 20.519999 26.843998 31.019997 33.731998 39.959995 43.967995 50.291996 53.159996 59.123997 64.187996 68.231995 70.943993 78.32399 84.287994 88.979996 91.727989 97.367989"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4829">Senior Project Design</tspan></text>
+
+
+<g
+   id="g4833"><path
+     d="m 451.418,613.418 h 132 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -132 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4835"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(496.34994,633.90639)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4839"
+   y="0"><tspan
+     x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4837">CSCI 498</tspan></text>
+
+
+<text
+   transform="translate(450.86947,646.50639)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4843"
+   y="0"><tspan
+     x="0 5.5079994 11.471999 17.771999 20.519999 26.843998 31.019997 33.731998 39.959995 43.967995 50.291996 53.159996 59.123997 64.187996 68.231995 70.943993 77.339996 83.663994 89.963989 94.511993 98.519989 102.69599 108.99599"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4841">Senior Project Construction</tspan></text>
+
+
+<text
+   transform="translate(564.96546,646.50639)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4847"><tspan
+     x="0"
+     y="0"
+     id="tspan4845" /></text>
+
+
+<text
+   transform="translate(571.64946,646.50639)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4851" />
+
+
+<g
+   id="g4853"><path
+     d="m 451.418,709.418 h 132 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -132 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4855"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(496.34994,723.60933)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4859"
+   y="0"><tspan
+     x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4857">CSCI 499</tspan></text>
+
+
+<text
+   transform="translate(483.48275,736.20933)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4865"
+   y="0"><tspan
+     x="0 5.5079994 11.471999 17.771999 20.519999 26.843998 31.019997 33.731998 39.959995 43.967995 50.291996 53.159996 59.123997 64.187996 68.231995"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4861">Senior Project </tspan><tspan
+     x="-27.058594 -24.046595 -14.470594 -8.1705952 -5.4225955 0.54140395 10.117403 16.081402 22.285402 26.161402"
+     y="12.599999"
+     sodipodi:role="line"
+     id="tspan4863">Implementation/Defense</tspan></text>
+
+
+<text
+   transform="translate(515.27215,748.80933)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4869"><tspan
+     x="0"
+     y="0"
+     id="tspan4867" /></text>
+
+
+<text
+   transform="translate(521.95615,748.80933)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4873" />
+
+
+<g
+   id="g4875"><path
+     d="m 517.418,661.418 v 48"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4877"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4879"
+   transform="rotate(-90)"><path
+     d="m -697.418,517.418 6,-6 -21,6 21,6 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4881"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4883"><path
+     d="m 31.418,613.418 h 108 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -108 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4885"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(64.130207,628.62006)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4889"
+   y="0"><tspan
+     x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4887">CSCI 490</tspan></text>
+
+
+<text
+   transform="translate(41.208337,641.22006)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4895"
+   y="0"><tspan
+     x="0 6.3959994 12.719999 22.295998 28.595997 34.895996 38.795998 44.759995 48.935997 51.647995 57.155994 62.255997 65.003998 70.967995 77.26799 82.331993"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4891">Computer Science</tspan><tspan
+     x="20.835934 26.691935 31.887934 34.635933 38.643932 41.391933 47.247932 52.239933 57.98793"
+     y="12.599999"
+     sodipodi:role="line"
+     id="tspan4893">Exit Exam</tspan></text>
+
+
+<g
+   id="g4897"
+   transform="translate(-152.68563,-1.4094058)"><path
+     d="m 319.418,517.418 h 108 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -108 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4899"
+     inkscape:connector-curvature="0" /></g><text
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4903"
+   x="199.44458"
+   y="536.49994"><tspan
+     x="199.44458 205.79257 211.45657 217.80458 220.99658 223.70857 229.78058 235.88858"
+     y="536.49994"
+     sodipodi:role="line"
+     id="tspan4901">CSCI 330</tspan></text>
+
+
+<text
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4907"
+   x="164.65163"
+   y="549.09991"><tspan
+     x="164.65163 171.04762 177.37161 186.94762 193.24762 199.54762 203.44762 209.41162 213.58762 216.29962 223.23561 227.27962 232.34361 238.64362 241.39162 245.31561 251.27962 256.34363 260.3876 266.68762 270.70761"
+     y="549.09991"
+     sodipodi:role="line"
+     id="tspan4905">Computer Architecture</tspan></text>
+
+
+<g
+   id="g4913"
+   transform="matrix(-0.71875,-1,1,-0.71875,0,0)" /><g
+   id="g4917"><path
+     d="m 319.418,613.418 h 108 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -108 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4919"
+     inkscape:connector-curvature="0" /></g>
+
+
+
+<text
+   transform="translate(357.66842,647.52007)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4931"><tspan
+     x="0"
+     y="0"
+     id="tspan4929" /></text>
+
+
+<text
+   transform="translate(364.35242,647.52007)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4935" />
+
+
+<g
+   id="g4937"><path
+     d="m 187.418,613.418 h 108 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -108 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4939"
+     inkscape:connector-curvature="0" /></g>
+
+
+
+<g
+   id="g4949"><path
+     d="m 31.418,709.418 h 108 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -108 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4951"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(59.436852,729.90934)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4955"
+   y="0"><tspan
+     x="0 10.487999 16.811998 22.751999 30.311998 33.023998 39.131996 45.203995"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4953">MATH 326</tspan></text>
+
+
+<text
+   transform="translate(50.120449,742.50934)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4959"
+   y="0"><tspan
+     x="0 5.0399995 7.7879992 14.087998 20.051998 25.799997 29.975998 32.687996 39.623997 42.371998 47.951996 53.915997 60.215996 64.175995"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4957">Linear Algebra</tspan></text>
+
+
+<g
+   id="g4961"><path
+     d="m 187.418,709.418 h 108 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -108 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4963"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(215.43686,729.90934)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4967"
+   y="0"><tspan
+     x="0 10.487999 16.811998 22.751999 30.311998 33.023998 39.131996 45.203995"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4965">MATH 321</tspan></text>
+
+
+<text
+   transform="translate(215.19077,742.50934)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text4971"
+   y="0"><tspan
+     x="0 6.3959994 12.143999 14.891998 19.955997 26.255999 29.003998 35.303997 39.995998 42.707996 45.719997 48.731995"
+     y="0"
+     sodipodi:role="line"
+     id="tspan4969">Calculus III</tspan></text>
+
+
+<g
+   id="g4973"><path
+     d="m 517.418,565.418 v 48"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4975"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4977"
+   transform="rotate(-90)"><path
+     d="m -601.418,517.418 6,-6 -21,6 21,6 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4979"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4981"><path
+     d="m 373.418,181.418 v 48"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4983"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4985"
+   transform="rotate(-90)"><path
+     d="m -217.418,373.418 6,-6 -21,6 21,6 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4987"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4989"><path
+     d="m 334.418,181.418 -78,48"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4991"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4993"
+   transform="matrix(1,-0.615385,0.615385,1,0,0)"><path
+     d="m 93.803,280.854 5.11,-5.11 -17.882,5.109 17.882,5.11 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.36265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4995"
+     inkscape:connector-curvature="0" /></g><g
+   id="g4997"><path
+     d="m 352.418,277.418 -42,48"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4999"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5001"
+   transform="matrix(0.875,-1,1,0.875,0,0)"><path
+     d="m -21.441,337.081 4.514,-4.516 -15.803,4.516 15.805,4.514 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.20412;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5003"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5005"><path
+     d="m 402.293,91.418 -18.375,42"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5007"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5009"
+   transform="matrix(0.4375,-1,1,0.4375,0,0)"><path
+     d="m 39.991,371.23 5.495,-5.493 -19.237,5.494 19.238,5.498 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.46585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5011"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5013"><path
+     d="m 314.47791,278.82741 -94.17524,43.38217 0.55,54.57723 30.53713,37.66437 -1.48961,102.49702"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3194)"
+     id="path5015"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" /></g><g
+   id="g5017"
+   transform="matrix(0.999999,-1,1,0.999999,0,0)" /><g
+   id="g5021"
+   transform="translate(-152.68563,-1.4094058)"><path
+     d="m 373.418,565.418 v 48"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5023"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5025"
+   transform="rotate(-90,-77.047518,75.638112)"><path
+     d="m -601.418,373.418 6,-6 -21,6 21,6 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5027"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5029"><path
+     d="m 289.418,373.418 v 192 l -24,48"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5031"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5033"
+   transform="matrix(0.5,-1,1,0.5,0,0)"><path
+     d="m -373.833,457.702 5.367,-5.368 -18.785,5.366 18.784,5.366 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.43108;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5035"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5037"><path
+     d="m 133.418,61.418 h 120"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5039"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5041"
+   transform="scale(-1)"><path
+     d="m -241.418,-61.418 6,-6 -21,6 21,6 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5043"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5045"><path
+     d="m 133.418,79.051 170.324,55.617"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5047"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5049"
+   transform="matrix(-1,-0.326531,0.326531,-1,0,0)"><path
+     d="m -302.806,-32.066 5.704,-5.702 -19.962,5.702 19.96,5.705 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.52097;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5051"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5053"><path
+     d="m 79.418,85.418 v 48"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5055"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5057"
+   transform="rotate(-90)"><path
+     d="m -121.418,79.418 6,-6 -21,6 21,6 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5059"
+     inkscape:connector-curvature="0" /></g>
+
+
+<g
+   id="g5081"
+   transform="translate(13.303937)"><path
+     d="m 373.418,277.418 v 144"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5083"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5085"
+   transform="rotate(-90,6.6519687,-6.6519687)"><path
+     d="m -409.418,373.418 6,-6 -21,6 21,6 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5087"
+     inkscape:connector-curvature="0" /></g><text
+   style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text5097"
+   transform="translate(401.89537,125.42872)"
+   y="0"><tspan
+     x="0 5.7969999 9.625 12.111 14.872 20.646999 24.827 28.500999 32.328999 38.104 42.778999 46.354 52.151001 55.979 58.398998 62.700001 65.185997 70.675003 76.141998 79.970001 88.748001 91.266998 95.568001 99.869003 102.388 108.185"
+     y="0"
+     sodipodi:role="line"
+     id="tspan5089">or Instructor's Permission</tspan><tspan
+     x="64.464325 67.225327 73.00032 77.169327 80.843323 84.671326 90.44632 95.121323 98.69632 104.49332 108.32132 110.74133 115.04232 117.52832 123.00632 128.47333 132.30133 141.07933 143.63132 147.93233 152.23332 154.75232 160.54932"
+     y="292.41058"
+     sodipodi:role="line"
+     id="tspan5091">Instructor's Permission</tspan><tspan
+     x="64.464363 67.225365 73.000366 77.169365 80.843369 84.671364 90.446365 95.121368 98.696365 104.49337 108.32137 110.74136 115.04237 117.52837 123.00636 128.47337 132.30136 141.07936 143.63136 147.93237 152.23337 154.75237 160.54936"
+     y="387.90338"
+     sodipodi:role="line"
+     id="tspan5093">Instructor's Permission</tspan><tspan
+     sodipodi:role="line"
+     id="tspan5095"
+     x="0"
+     y="401.65338" /></text>
+
+
+<g
+   id="g5099"><path
+     d="M 87.640875,373.418 V 490.78328 L 145.418,517.418 v 48 l 14.44912,48 v 90"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5101"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc" /></g><g
+   id="g5103"
+   transform="matrix(-0.0272269,-1,1,-0.0272269,0,0)"><path
+     d="m -695.25,140.613 5.999,-6 -20.995,5.998 20.993,5.998 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.59941;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5105"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5107"><path
+     d="m 415.418,325.418 h 132 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -132 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5109"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(459.49723,345.89467)"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text5113"
+   y="0"><tspan
+     x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
+     y="0"
+     sodipodi:role="line"
+     id="tspan5111">CSCI 419</tspan></text>
+
+
+<text
+   transform="translate(427.01286,358.49467)"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text5117"
+   y="0"><tspan
+     x="0 7.3799992 13.007998 16.883999 22.631998 28.931997 34.679996 39.371998 45.335995 48.047997 58.295994 64.043991 70.343994 76.091995 81.731995 91.307991 97.271996 103.45199"
+     y="0"
+     sodipodi:role="line"
+     id="tspan5115">Database Managment</tspan></text>
+
+
+<g
+   id="g5119"><path
+     d="m 410.918,181.418 75,48"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5121"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5123"
+   transform="matrix(-1,-0.64,0.64,-1,0,0)"><path
+     d="m -438.774,57.866 5.051,-5.053 -17.687,5.054 17.688,5.055 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.34763;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5125"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5127"><path
+     d="m 386.918,181.418 70.5,48 10.5,96"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5129"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5131"
+   transform="matrix(-0.109375,-1,1,-0.109375,0,0)"><path
+     d="m -360.215,427.215 5.965,-5.965 -20.875,5.963 20.875,5.967 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.59052;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5133"
+     inkscape:connector-curvature="0" /></g><text
+   transform="translate(477.14164,320.31682)"
+   style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text5137"
+   y="0"><tspan
+     x="0 5.7969999 9.625 12.111 17.677 23.275999 25.761999 31.537001 37.334 43.109001 46.761002 51.062 53.548 56.067001 61.841999 64.328003 70.334 77.385002 82.433998"
+     y="0"
+     sodipodi:role="line"
+     id="tspan5135">or 12 hours in BUSI</tspan></text>
+
+
+<g
+   id="g5139"><path
+     d="m 49.418,85.418 -36,48 v 240 l 48,144"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5141"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5143"
+   transform="matrix(-0.333333,-1,1,-0.333333,0,0)"><path
+     d="m -472.714,-99.95 5.69,-5.693 -19.922,5.695 19.92,5.691 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.51789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5145"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5147"><path
+     d="m 301.418,373.418 v 192 l 48,48"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5149"
+     inkscape:connector-curvature="0" /></g><g
+   id="g5151"
+   transform="matrix(-1,-0.999999,0.999999,-1,0,0)"><path
+     d="m -472.934,-132 4.244,-4.244 -14.849,4.244 14.849,4.244 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.13137;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5153"
+     inkscape:connector-curvature="0" /></g><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.5213px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.831496"
+   x="-105.32641"
+   y="106.31409"
+   id="text5871" />
+
+
+<g
+   id="g4659"><path
+     d="m 31.418,229.418 h 96 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -96 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4661"
+     inkscape:connector-curvature="0" /></g><g
+   id="g2934"
+   transform="translate(4.136363,-1.3124385)"><text
+   id="text4923"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+   x="215.94861"
+   y="635.21948"><tspan
+     id="tspan4921"
+     sodipodi:role="line"
+     y="635.21948"
+     x="215.94861 222.29662 227.9606 234.30861 237.50061 240.2126 246.28461 252.39261"
+     style="stroke-width:1">CSCI 431</tspan></text>
+<text
+   id="text4927"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+   x="191.96034"
+   y="647.81952"><tspan
+     id="tspan4925"
+     sodipodi:role="line"
+     y="647.81952"
+     x="191.96034 199.90434 206.20433 212.16833 216.12833"
+     style="stroke-width:1">Operating Systems</tspan></text>
+</g><g
+   id="g2928"
+   transform="translate(-17.488875,-8.8292842)"><text
+   id="text4943"
+   style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+   x="369.78171"
+   y="642.73633"><tspan
+     id="tspan4941"
+     sodipodi:role="line"
+     y="642.73633"
+     x="369.78171 376.1297 381.7937 388.14169 391.33368 394.04568 400.11771 406.22568"
+     style="stroke-width:1">CSCI 415</tspan></text>
+<text
+   id="text4947"
+   style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+   x="364.48483"
+   y="655.33636"><tspan
+     id="tspan4945"
+     sodipodi:role="line"
+     y="655.33636"
+     x="364.48483 371.42084 374.16882 379.74881 386.07281 390.24881 392.99683 397.04083 403.34082 412.91681"
+     style="stroke-width:1">Algorithms</tspan></text>
+</g><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.1953px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.831496"
+   x="393.72571"
+   y="397.72205"
+   id="text3172"><tspan
+     sodipodi:role="line"
+     id="tspan3170"
+     x="393.72571"
+     y="397.72205"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.0866px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.831496">or CSCI 419</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3039px;line-height:1;font-family:Consolas, monaco, monospace;-inkscape-font-specification:'Consolas, monaco, monospace';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.831496"
+   x="595.33264"
+   y="17.35813"
+   id="text1313"><tspan
+     sodipodi:role="line"
+     id="tspan1311"
+     x="595.33264"
+     y="17.35813"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3039px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end;stroke-width:0.831496">Freshman Fall</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;line-height:1;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.831496"
+   x="594.76477"
+   y="112.605"
+   id="text1317"><tspan
+     sodipodi:role="line"
+     id="tspan1315"
+     x="594.76477"
+     y="112.605"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:end;text-anchor:end;stroke-width:0.831496">Freshman Spring</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;line-height:1;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.831496"
+   x="595.26495"
+   y="208.60538"
+   id="text1317-7"><tspan
+     sodipodi:role="line"
+     id="tspan1315-2"
+     x="595.26495"
+     y="208.60538"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:end;text-anchor:end;stroke-width:0.831496">Sophomore Fall</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;line-height:1;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.831496"
+   x="594.76477"
+   y="304.60577"
+   id="text1317-7-6"><tspan
+     sodipodi:role="line"
+     id="tspan1315-2-6"
+     x="594.76477"
+     y="304.60577"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:end;text-anchor:end;stroke-width:0.831496">Sophomore Spring</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;line-height:1;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.831496"
+   x="595.26495"
+   y="400.60614"
+   id="text1317-7-1"><tspan
+     sodipodi:role="line"
+     id="tspan1315-2-8"
+     x="595.26495"
+     y="400.60614"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:end;text-anchor:end;stroke-width:0.831496">Junior Fall</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;line-height:1;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.831496"
+   x="594.76477"
+   y="496.40405"
+   id="text1317-7-3"><tspan
+     sodipodi:role="line"
+     id="tspan1315-2-9"
+     x="594.76477"
+     y="496.40405"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:end;text-anchor:end;stroke-width:0.831496">Junior Spring</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;line-height:1;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.831496"
+   x="595.26495"
+   y="592.60687"
+   id="text1317-7-0"><tspan
+     sodipodi:role="line"
+     id="tspan1315-2-7"
+     x="595.26495"
+     y="592.60687"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:end;text-anchor:end;stroke-width:0.831496">Senior Fall</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;line-height:1;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.831496"
+   x="594.76477"
+   y="688.40479"
+   id="text1317-7-0-0"><tspan
+     sodipodi:role="line"
+     id="tspan1315-2-7-9"
+     x="594.76477"
+     y="688.40479"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:end;text-anchor:end;stroke-width:0.831496">Senior Spring</tspan></text></g>
+
+
+
+
+
+
+
+
+</g></svg>
