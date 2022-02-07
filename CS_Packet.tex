@@ -12,6 +12,7 @@
 \usepackage{graphicx}
 \usepackage{fancyhdr}
 \usepackage{multirow} % used only in CurriculumOfferings.tex
+\usepackage{pdfpages} % for adding a PDF to this document (e.g., the cover sheet)
 
 \usepackage[bookmarks]{hyperref}
 \hypersetup{
@@ -191,6 +192,8 @@
 \begin{document}
 \pagestyle{catalog}
 
+\includepdf[pages={1}]{coverpage_digital}
+%\includepdf[pages={1}]{coverpage_print}
 \include{CoverSheet}
 
 \begin{Form}[NeedAppearances=true]
