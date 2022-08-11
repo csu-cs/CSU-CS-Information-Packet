@@ -2,6 +2,8 @@
 
 % Uncomment to include only certain sections in the output.
 %\includeonly{programs/BT_ComputerScience}
+% \usepackage{excludeonly}
+% \excludeonly{cover_page}
 
 \usepackage[letterpaper, margin=0.5in, top=1in, bottom=1.25in]{geometry}
 \usepackage[table]{xcolor}
@@ -57,22 +59,22 @@
 	%\lhead{\includegraphics[trim={0.29in 0.35in 0 0.35in},clip,height=0.667in]{csu_logo_black}}
 	\lhead{\includegraphics[height=0.667in]{csu_logo_blue_gold}}
 	\chead{\color{csublue}\large\textsc{Department of Computer Science}}
-	\rhead{\color{csublue}2021--2022 Catalog}
+	\rhead{\color{csublue}2022--2023 Catalog}
 
 	\cfoot{Integrating Faith in Learning, Leading, and Serving\\
 	\footnotesize{{\scshape 9200 University Boulevard} \textbullet \ {\scshape PO Box 118087} \textbullet \ {\scshape Charleston, SC 29423-8087}\\
 	{\scshape \href{https://charlestonsouthern.edu}{CharlestonSouthern.edu}} \textbullet \ {\scshape Phone 843-863-7369} \textbullet \ {\scshape \href{mailto:shayes@csuniv.edu?body=Dear\%20Dr.\%20Hayes,}{SHayes@csuniv.edu}}}}
 
-	\fancyfoot[RO]{\vspace{1em}\thepage}
-	\fancyfoot[LE]{\vspace{1em}\thepage}
+	\fancyfoot[LO]{\vspace{1em}\thepage}
+	\fancyfoot[RE]{\vspace{1em}\thepage}
 }
 
 
 \fancypagestyle{plain}{%
 	\fancyhf{}% clear all header and footer fields
 	\fancyfoot[C]{} % except the center
-	\fancyfoot[RO]{\vspace{1em}\thepage}
-	\fancyfoot[LE]{\vspace{1em}\thepage}
+	\fancyfoot[LO]{\vspace{1em}\thepage}
+	\fancyfoot[RE]{\vspace{1em}\thepage}
 	\renewcommand{\headrulewidth}{0pt}%
 	\renewcommand{\footrulewidth}{0pt}%
 }
