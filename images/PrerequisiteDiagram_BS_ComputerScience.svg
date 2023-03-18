@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg4495"
    xml:space="preserve"
@@ -14,10 +7,17 @@
    height="9.656724in"
    viewBox="0 0 725.00004 927.0455"
    sodipodi:docname="PrerequisiteDiagram_BS_ComputerScience.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
      id="metadata4501"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs4499"><marker
        inkscape:isstock="true"
        style="overflow:visible"
@@ -90,23 +90,27 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2159"
+     inkscape:window-width="3840"
      inkscape:window-height="2054"
      id="namedview4497"
      showgrid="false"
      units="in"
      inkscape:zoom="2"
-     inkscape:cx="414.62482"
-     inkscape:cy="208.82546"
-     inkscape:window-x="2304"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:cx="348.5"
+     inkscape:cy="405.5"
+     inkscape:window-x="2293"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
      inkscape:current-layer="g4505"
      inkscape:document-rotation="0"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" /><g
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in" /><g
      id="g4503"
      inkscape:groupmode="layer"
      inkscape:label="PrerequisiteDiagram_BS_ComputerScience"
@@ -518,16 +522,11 @@
      d="m -217.418,79.418 6,-6 -21,6 21,6 z"
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4709"
-     inkscape:connector-curvature="0" /></g><g
-   id="g4711"><path
-     d="m 307.418,229.418 h 132 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -132 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
-     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path4713"
      inkscape:connector-curvature="0" /></g><text
-   transform="translate(352.27961,243.6064)"
    style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text4717"
-   y="0"><tspan
+   y="0"
+   transform="translate(352.27961,243.6064)"><tspan
      x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
      y="0"
      sodipodi:role="line"
@@ -535,10 +534,10 @@
 
 
 <text
-   transform="translate(334.17414,256.2064)"
    style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text4723"
-   y="0"><tspan
+   y="0"
+   transform="translate(334.17414,256.2064)"><tspan
      x="0 7.9439993 14.243999 17.112 23.075998 28.139997 31.811996 35.483997 43.427998 47.603996 50.387997 56.351994 62.531994 66.443993 72.407997"
      y="0"
      sodipodi:role="line"
@@ -549,31 +548,26 @@
      id="tspan4721">Programming</tspan></text>
 
 
-<g
-   id="g4725"><path
-     d="m 475.418,229.418 h 96 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -96 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
-     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path4727"
-     inkscape:connector-curvature="0" /></g><text
-   transform="translate(502.19472,249.90641)"
+<text
    style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text4731"
-   y="0"><tspan
-     x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
-     y="0"
+   y="249.9064"
+   x="496.18149"><tspan
      sodipodi:role="line"
-     id="tspan4729">CSCI 332</tspan></text>
+     id="tspan4729"
+     x="496.18149"
+     y="249.9064">CSCI 419</tspan></text>
 
 
 <text
-   transform="translate(475.01894,262.50641)"
    style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text4735"
-   y="0"><tspan
-     x="0 6.9359994 13.235999 19.535999 22.283998 25.031998 30.995996 37.295998 40.007996 47.783997 53.687996 57.695995 66.155998 72.479996 76.655991 82.103996 84.887993 91.187996"
-     y="0"
+   y="262.50641"
+   x="460.42465"><tspan
      sodipodi:role="line"
-     id="tspan4733">Applied Networking</tspan></text>
+     id="tspan4733"
+     x="460.42465"
+     y="262.50641">Database Management</tspan></text>
 
 
 <g
@@ -1076,7 +1070,7 @@
      id="path5011"
      inkscape:connector-curvature="0" /></g><g
    id="g5013"><path
-     d="m 314.47791,278.82741 -94.17524,43.38217 0.55,54.57723 30.53713,37.66437 -1.48961,102.49702"
+     d="m 321.54563,275.50143 -101.24296,46.70815 0.55,54.57723 30.53713,37.66437 -1.48961,102.49702"
      style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3194)"
      id="path5015"
      inkscape:connector-curvature="0"
@@ -1201,7 +1195,7 @@
      x="0 6.3479996 12.011999 18.359999 21.551998 24.263998 30.335997 36.443996"
      y="0"
      sodipodi:role="line"
-     id="tspan5111">CSCI 419</tspan></text>
+     id="tspan5111">CSCI 332</tspan></text>
 
 
 <text
@@ -1209,10 +1203,8 @@
    style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text5117"
    y="0"><tspan
-     x="0 7.3799992 13.007998 16.883999 22.631998 28.931997 34.679996 39.371998 45.335995 48.047997 58.295994 64.043991 70.343994 76.091995 81.731995 91.307991 97.271996 103.45199"
-     y="0"
      sodipodi:role="line"
-     id="tspan5115">Database Managment</tspan></text>
+     id="tspan5115">Applied Networking</tspan></text>
 
 
 <g
@@ -1228,24 +1220,18 @@
      id="path5125"
      inkscape:connector-curvature="0" /></g><g
    id="g5127"><path
-     d="m 386.918,181.418 70.5,48 10.5,96"
+     d="m 386.918,181.418 46.38662,49.66298 8.82629,45.13432 19.55087,50.44994"
      style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path5129"
-     inkscape:connector-curvature="0" /></g><g
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" /></g><g
    id="g5131"
    transform="matrix(-0.109375,-1,1,-0.109375,0,0)"><path
-     d="m -360.215,427.215 5.965,-5.965 -20.875,5.963 20.875,5.967 z"
+     d="m -360.1829,419.3193 3.52523,-7.84873 -18.78701,9.71911 21.20862,2.91672 z"
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.59052;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path5133"
-     inkscape:connector-curvature="0" /></g><text
-   transform="translate(477.14164,320.31682)"
-   style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   id="text5137"
-   y="0"><tspan
-     x="0 5.7969999 9.625 12.111 17.677 23.275999 25.761999 31.537001 37.334 43.109001 46.761002 51.062 53.548 56.067001 61.841999 64.328003 70.334 77.385002 82.433998"
-     y="0"
-     sodipodi:role="line"
-     id="tspan5135">or 12 hours in BUSI</tspan></text>
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" /></g>
 
 
 <g
@@ -1418,7 +1404,25 @@
      id="tspan1315-2-7-9"
      x="594.76477"
      y="688.40479"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:end;text-anchor:end;stroke-width:0.831496">Senior Spring</tspan></text></g>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1953px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:end;text-anchor:end;stroke-width:0.831496">Senior Spring</tspan></text><path
+   d="m 325.418,229.418 h 96 c 3.32401,0 6,2.676 6,6 v 36 c 0,3.324 -2.67599,6 -6,6 h -96 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+   style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="path4727-2"
+   inkscape:connector-curvature="0" /><g
+   id="g4711"
+   transform="translate(144.03008,0.02735443)"><path
+     d="m 307.418,229.418 h 132 c 3.324,0 6,2.676 6,6 v 36 c 0,3.324 -2.676,6 -6,6 h -132 c -3.324,0 -6,-2.676 -6,-6 v -36 c 0,-3.324 2.676,-6 6,-6 z"
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4713"
+     inkscape:connector-curvature="0" /></g><text
+   style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text5137"
+   y="226.11581"
+   x="499.26447"><tspan
+     x="499.26447 505.06146 508.88953 511.37552 516.94159 522.54059 525.02655 530.80157 536.59857 542.37354 546.02557 550.32654 552.81256 555.33154 561.10657 563.59259 569.59857 576.64954 581.69855"
+     y="226.11581"
+     sodipodi:role="line"
+     id="tspan5135">or 12 hours in BUSI</tspan></text></g>
 
 
 
