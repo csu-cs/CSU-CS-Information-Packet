@@ -1,8 +1,9 @@
 \documentclass[letterpaper,10pt,twoside]{article}
 
-% Uncomment to include only certain sections in the output.
+%% Uncomment to include only certain sections in the output.
 % \includeonly{programs/BT_ComputerScience, programs/BT_Cybersecruity}
 % \includeonly{Overview, programs/AppliedComp_Business,programs/AppliedComp_Cybersecurity,AppliedComp_GraphicArts,programs/BS_Cybersecurity,plans/BS_CS-SuggestedClassSchedule, plans/BS_Cyber-SuggestedClassSchedule}
+% \includeonly{programs/MS_InformationTechnology}
 % \usepackage{excludeonly}
 % \excludeonly{cover_page}
 
@@ -61,14 +62,14 @@
 	%\lhead{\includegraphics[trim={0.29in 0.35in 0 0.35in},clip,height=0.667in]{csu_logo_black}}
 	\lhead{\includegraphics[height=0.667in]{csu_logo_blue_gold}}
 	\chead{\color{csublue}\large\textsc{Department of Computer Science}}
-	\rhead{\color{csublue}2023--2024 Catalog}
+	\rhead{\color{csublue}Draft 2024--2025 Catalog}
 
 	\cfoot{Integrating Faith in Learning, Leading, and Serving\\
 	\footnotesize{{\scshape 9200 University Boulevard} \textbullet \ {\scshape PO Box 118087} \textbullet \ {\scshape Charleston, SC 29423-8087}\\
 	{\scshape \href{https://charlestonsouthern.edu/computer-science}{CharlestonSouthern.edu/Computer-Science}} \textbullet \ {\scshape \href{mailto:shayes@csuniv.edu?body=Dear\%20Dr.\%20Hayes,}{SHayes@CSUniv.edu}}}}
 
-	\fancyfoot[LO]{\vspace{1em}\thepage}
-	\fancyfoot[RE]{\vspace{1em}\thepage}
+	\fancyfoot[LE]{\vspace{1em}\thepage}
+	\fancyfoot[RO]{\vspace{1em}\thepage}
 }
 
 
@@ -183,6 +184,17 @@
 % Rotate column in tabular to have virtical text.
 \newcommand*\rotCol{\rotatebox{90}}
 
+\newcommand\blankpage{% comando pagina vuota
+	\clearpage
+	\begingroup
+		\null
+		\thispagestyle{empty}%
+		\addtocounter{page}{-1}%
+		\hypersetup{pageanchor=false}%
+		\clearpage
+	\endgroup
+}
+
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0em}
 
@@ -194,9 +206,12 @@
 \clubpenalty10000
 
 \begin{document}
+
+\setcounter{page}{0}
+\include{CoverSheet}
+% \pagenumbering{gobble}% Remove page numbers (and reset to 1)
 \pagestyle{catalog}
 
-\include{CoverSheet}
 \include{Overview}
 
 \begin{Form}[NeedAppearances=true]
@@ -209,12 +224,14 @@
 \include{programs/BT_Cybersecruity}
 \include{programs/Minor_AppliedComputing}
 \include{programs/MS_ComputerScience}
+\include{programs/MS_InformationTechnology}
 \end{Form}
 
 \include{courses/CurriculumOfferings}
 \include{courses/CurriculumPrerequisite}
 \include{plans/BS_CS-SuggestedClassSchedule}
 \include{plans/BS_Cyber-SuggestedClassSchedule}
+\include{faq/Computer}
 \include{courses/CourseDescriptions}
 
 \end{document}
