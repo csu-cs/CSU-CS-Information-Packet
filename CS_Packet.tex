@@ -6,6 +6,7 @@
 % \includeonly{programs/MS_InformationTechnology}
 % \usepackage{excludeonly}
 % \excludeonly{cover_page}
+% \includeonly{plans/BS_Cyber-SuggestedClassSchedule}
 
 \usepackage[letterpaper, margin=0.5in, top=1in, bottom=1.25in]{geometry}
 \usepackage[table]{xcolor}
@@ -54,7 +55,7 @@
 \fancypagestyle{catalog}[fancy]{%
 	\renewcommand{\headrulewidth}{1pt}
 	\renewcommand{\headrule}{\color{csugold}\oldheadrule}% Add color to \headrule
-	\setlength\headheight{52.5pt} %% just to make warning go away. Adjust the value after looking into the warning.
+	\setlength\headheight{52.5pt} %% just to make the warning go away. Adjust the value after looking into the warning.
 	\setlength\headsep{1em}
 	\setlength\footskip{16.0pt}
 	\renewcommand{\footrulewidth}{1pt}
@@ -62,7 +63,7 @@
 	%\lhead{\includegraphics[trim={0.29in 0.35in 0 0.35in},clip,height=0.667in]{csu_logo_black}}
 	\lhead{\includegraphics[height=0.667in]{csu_logo_blue_gold}}
 	\chead{\color{csublue}\large\textsc{Department of Computer Science}}
-	\rhead{\color{csublue}Draft 2024--2025 Catalog}
+	\rhead{\color{csublue}2024--2025 Catalog}
 
 	\cfoot{Integrating Faith in Learning, Leading, and Serving\\
 	\footnotesize{{\scshape 9200 University Boulevard} \textbullet \ {\scshape PO Box 118087} \textbullet \ {\scshape Charleston, SC 29423-8087}\\
@@ -87,7 +88,8 @@
 	colframe=black,fonttitle=\bfseries,
 	coltitle=black,colbacktitle=white,%enhanced,
 	%attach boxed title to top center={yshift=-2mm},
-	adjusted title=center,halign title=center,
+	adjusted title=center,%
+	halign title=center,
 	boxrule=1pt,%
 	fonttitle=\bfseries\large\itshape,
 	titlerule=0.5pt,
@@ -152,7 +154,7 @@
 % Create a new checklist environment
 \usepackage{pifont} % for checkmark
 \newlist{checklist}{itemize}{2}
-%%% Uncommnet the following two lines to use a box instead of a pdf form for the boxes.
+%%% Uncomment the following two lines to use a box instead of a pdf form for the boxes.
 %\setlist[checklist]{label=$\square$,topsep=0.5ex, itemsep=0.25ex, parsep=0ex}
 
 % Use a form check box for an editable pdf
@@ -165,13 +167,13 @@
 \newcommand{\done}{\rlap{$\square$}{\raisebox{2pt}{\large\hspace{1pt}\cmark}}%
 \hspace{-2.5pt}}
 
-% reduce spacing between items in lists
+% reduce the spacing between items in lists
 \usepackage{enumitem}
 \setlist[enumerate]{topsep=0.5ex, itemsep=0ex, parsep=0ex}
 \setlist[itemize]{topsep=0.5ex, itemsep=0ex, parsep=0ex}
 \setlist[description]{topsep=0.5ex, itemsep=0ex, parsep=0ex}
 
-% Add colon after label in description lists
+% Add a colon after the label in description lists
 \renewcommand{\descriptionlabel}[1]{%
   \hspace\labelsep \upshape\bfseries #1:%
 }
@@ -181,7 +183,7 @@
 	%\item (\ChoiceMenu[combo,name=hours\thecheckNum,default=3,width=0.5em]{\mbox{}}{1,2,3,4}) \TextField[name=elective\thecheckNum,borderstyle=U,borderwidth=0.5pt,bordercolor=black,width=0.7\linewidth,height=0.9em,value=major elective]{}
 }
 
-% Rotate column in tabular to have virtical text.
+% Rotate column in tabular to have vertical text.
 \newcommand*\rotCol{\rotatebox{90}}
 
 \newcommand\blankpage{% comando pagina vuota
@@ -198,7 +200,7 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0em}
 
-% Reduce hypenation
+% Reduce hyphenation
 \hyphenpenalty=2000
 
 % Reduce widow/orphan lines?
