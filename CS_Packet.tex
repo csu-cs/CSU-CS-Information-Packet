@@ -63,7 +63,7 @@
 	%\lhead{\includegraphics[trim={0.29in 0.35in 0 0.35in},clip,height=0.667in]{csu_logo_black}}
 	\lhead{\includegraphics[height=0.667in]{csu_logo_blue_gold}}
 	\chead{\color{csublue}\large\textsc{Department of Computer Science}}
-	\rhead{\color{csublue}2024--2025 Catalog}
+	\rhead{\color{csublue}2025--2026 Catalog}
 
 	\cfoot{Integrating Faith in Learning, Leading, and Serving\\
 	\footnotesize{{\scshape 9200 University Boulevard} \textbullet \ {\scshape PO Box 118087} \textbullet \ {\scshape Charleston, SC 29423-8087}\\
@@ -161,7 +161,8 @@
 \newcounter{checkNum}% Count each checkbox so we can give them unique form-field names.
 \setlist[checklist]{
 	label=\stepcounter{checkNum}\setlength{\fboxsep}{1pt}\fbox{\CheckBox[width=0.6em,height=0.6em,name=box\thecheckNum,borderwidth=0bp]{\ignorespaces}},
-	topsep=0.5ex, itemsep=0.25ex, parsep=0ex%
+	topsep=0.5ex, itemsep=0.25ex, parsep=0ex,%
+	left=1.2em, itemindent=-1.415em, % Controls the indent on the second line. Tried to match the width of "(3)"
 }
 \newcommand{\cmark}{\ding{51}}%
 \newcommand{\done}{\rlap{$\square$}{\raisebox{2pt}{\large\hspace{1pt}\cmark}}%
