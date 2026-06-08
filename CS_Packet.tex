@@ -187,10 +187,10 @@
 % Rotate column in tabular to have vertical text.
 \newcommand*\rotCol{\rotatebox{90}}
 
-\newcommand\blankpage{% comando pagina vuota
+\newcommand\blankpage{%
 	\clearpage
 	\begingroup
-		\null
+		\null%
 		\thispagestyle{empty}%
 		\addtocounter{page}{-1}%
 		\hypersetup{pageanchor=false}%
