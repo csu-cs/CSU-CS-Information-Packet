@@ -12,5 +12,5 @@ Usage
 To compile this information packet into a PDF, run the following command.
 
 ```
-pdflatex CS_Packet.tex
+latexmk -g -pdf -interaction=nonstopmode CS_Packet.tex
 ```
