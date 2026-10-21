@@ -85,3 +85,9 @@
 
 # Makeindex log files
 *.lpz
+
+old/
+references/
+CS_Packet.pdf
+Graduation_Plan.xlsx
+.vscode/

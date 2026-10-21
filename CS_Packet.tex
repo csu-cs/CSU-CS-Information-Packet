@@ -56,6 +56,11 @@
   \end{ocg}%
 }
 
+\newcommand{\screenrefHSpace}{\hspace{\widthof{\scriptsize{\faLink}}}}
+
+% \noteref{label}: prints a linked superscript reference to a numbered note.
+\newcommand{\noteref}[1]{\textsuperscript{\hyperref[#1]{\hspace{2pt}\ref*{#1}}}}
+
 \def\DefaultOptionsofCheckBox{print,bordercolor=black}
 \def\DefaultOptionsofText{print,bordercolor=black}
 \def\DefaultOptionsofText{print,bordercolor=black}
@@ -200,7 +205,7 @@
 
 % Add a colon after the label in description lists
 \renewcommand{\descriptionlabel}[1]{%
-  \hspace\labelsep \upshape\bfseries #1:%
+  \hspace\labelsep\upshape\bfseries #1%
 }
 
 \newcommand{\blankReq}[0] {
@@ -227,6 +232,7 @@
 
 % Reduce hyphenation
 \hyphenpenalty=2000
+\setlength{\emergencystretch}{1em}
 
 % Reduce widow/orphan lines?
 \widowpenalty10000

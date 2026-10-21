@@ -1,3 +1,6 @@
-\includepdf[pages={1}]{coverpage_digital}
-% \includepdf[pages={1}]{coverpage_print}
-% \blankpage{}
+\ifdefined\PrintCover%
+  \includepdf[pages={1}]{coverpage_print}
+  \blankpage{}
+\else
+  \includepdf[pages={1}]{coverpage_digital}
+\fi 
