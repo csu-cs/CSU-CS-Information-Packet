@@ -1,0 +1,51 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{prereqdiagram}[2026/10/23 Prerequisite flow diagrams]
+\RequirePackage{tikz}
+\usetikzlibrary{arrows.meta,calc,positioning,fit,backgrounds}
+
+% ===== Appearance =====
+\definecolor{CourseBorder}{HTML}{000000}
+\definecolor{RowRule}{HTML}{A89968}
+\tikzset{
+  course/.style={draw=CourseBorder,rounded corners=3pt,
+    line width=1pt,minimum height=12.5mm,text width=32mm,
+    align=center,inner sep=2pt,font=\small},
+  prerequisite/.style={-{Stealth[length=3mm,width=2.4mm]},line width=1.6pt,shorten >=1pt,
+    draw=CourseBorder,rounded corners=3pt,line cap=round},
+  alternative/.style={draw=CourseBorder,densely dotted,line width=.8pt,
+    rounded corners=5pt,inner sep=1.5mm},
+  semester/.style={font=\bfseries,anchor=north east, inner ysep=2pt},
+  note/.style={font=\small,inner sep=1pt}
+}
+
+% ===== Layout parameters (override with \renewcommand after loading) =====
+\newcommand{\SemesterSpacing}{2.5}% vertical distance between rows, cm
+\newcommand{\CourseHeight}{1.25}% must match minimum height in the course style, cm
+\newcommand{\SemesterLabelX}{17.85}% x of the right edge of the row labels
+\newcommand{\RowRuleStart}{-1}
+\newcommand{\RowRuleEnd}{18}
+
+% \course{id}{x}{row}{code}{title}; titles may contain \\ for line breaks.
+\newcommand{\course}[5]{%
+  \node[course] (#1) at (#2,{-#3*\SemesterSpacing-0.05*\SemesterSpacing}) {\textbf{#4}\\#5};%
+}
+\newcommand{\semester}[2]{%
+  \node[semester] at (\SemesterLabelX,{-#1*\SemesterSpacing+0.5*\SemesterSpacing}) {#2};%
+}
+\newcommand{\rowrule}[1]{\draw[RowRule,line width=1.5pt] (\RowRuleStart,{-#1*\SemesterSpacing-1.025}) -- (\RowRuleEnd,{-#1*\SemesterSpacing-1.025});}
+
+% ===== Prerequisite arrows =====
+% \prereq{from}{to}: straight line between two nodes.
+\newcommand{\prereq}[2]{\draw[prerequisite] (#1) -- (#2);}
+% Every bend sits on a row edge: a source's south, the next row's north, or the row above the target.
+% \vhv{from}{dx}{to}: straight down, then a diagonal across the gutter above the target.
+\newcommand{\vhv}[3]{%
+  \draw[prerequisite] ($(#1.south)+(#2,0)$) -- ($(#1.south |- #3.north)+(#2,{\SemesterSpacing-\CourseHeight})$) -- (#3);%
+}
+% \longroute{from}{dx}{lane}{to}: diagonal across the gutter below the source onto a named x-lane,
+% straight down the lane, then a diagonal across the gutter above the target. Needs a non-adjacent target row.
+\newcommand{\longroute}[4]{%
+  \draw[prerequisite] ($(#1.south)+(#2,0)$) -- ($(#3 |- #1.south)+(0,{-(\SemesterSpacing-\CourseHeight)})$)
+    -- ($(#3 |- #4.north)+(0,{\SemesterSpacing-\CourseHeight})$) -- (#4);%
+}
+\endinput

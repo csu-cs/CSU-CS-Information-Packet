@@ -18,9 +18,8 @@
 \usepackage{fancyhdr}
 \usepackage{multirow} % used only in CurriculumOfferings.tex
 \usepackage{pdfpages} % for adding a PDF to this document (e.g., the cover sheet)
-\usepackage{fontawesome5} % for link icon
-
 \usepackage[bookmarks]{hyperref}
+\usepackage{prereqdiagram}
 
 \definecolor{csublue}{HTML}{002855}
 \definecolor{csugold}{HTML}{A89968}
@@ -65,10 +64,12 @@
 \def\DefaultOptionsofText{print,bordercolor=black}
 \def\DefaultOptionsofText{print,bordercolor=black}
 
-
 % Typeface (font)
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext}
+\usepackage{fontawesome5} % for link icon
 % \renewcommand{\rmdefault}{ppl} % palatino
-\renewcommand{\rmdefault}{ptm} % previous choice
+% \renewcommand{\rmdefault}{ptm} % previous choice
 %\renewcommand{\sfdefault}{phv} % Helvetica
 %\renewcommand{\ttdefault}{pcr}
 
