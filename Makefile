@@ -8,4 +8,4 @@ digital:
 	$(LATEXMK) CS_Packet.tex
 
 print:
-	$(LATEXMK) -usepretex="\def\PrintCover{}" CS_Packet.tex
+	$(LATEXMK) -jobname=CS_Packet-print -usepretex="\def\PrintCover{}" CS_Packet.tex

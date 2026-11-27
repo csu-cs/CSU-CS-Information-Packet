@@ -14,12 +14,12 @@
     draw=CourseBorder,rounded corners=3pt,line cap=round},
   alternative/.style={draw=CourseBorder,densely dotted,line width=.8pt,
     rounded corners=5pt,inner sep=1.5mm},
-  semester/.style={font=\bfseries,anchor=north east, inner ysep=2pt},
+  semester/.style={font=\bfseries,anchor=north east, inner ysep=2pt, align=right},
   note/.style={font=\small,inner sep=1pt}
 }
 
 % ===== Layout parameters (override with \renewcommand after loading) =====
-\newcommand{\SemesterSpacing}{2.5}% vertical distance between rows, cm
+\newcommand{\SemesterSpacing}{2.625}% vertical distance between rows, cm
 \newcommand{\CourseHeight}{1.25}% must match minimum height in the course style, cm
 \newcommand{\SemesterLabelX}{17.85}% x of the right edge of the row labels
 \newcommand{\RowRuleStart}{-1}
@@ -29,8 +29,9 @@
 \newcommand{\course}[5]{%
   \node[course] (#1) at (#2,{-#3*\SemesterSpacing-0.05*\SemesterSpacing}) {\textbf{#4}\\#5};%
 }
+% \semester{row}{label}; labels may contain \\ or \newline for line breaks.
 \newcommand{\semester}[2]{%
-  \node[semester] at (\SemesterLabelX,{-#1*\SemesterSpacing+0.5*\SemesterSpacing}) {#2};%
+  \node[semester] at (\SemesterLabelX,{-#1*\SemesterSpacing+0.525*\SemesterSpacing}) {\let\newline\\#2};%
 }
 \newcommand{\rowrule}[1]{\draw[RowRule,line width=1.5pt] (\RowRuleStart,{-#1*\SemesterSpacing-1.025}) -- (\RowRuleEnd,{-#1*\SemesterSpacing-1.025});}
 
@@ -47,5 +48,13 @@
 \newcommand{\longroute}[4]{%
   \draw[prerequisite] ($(#1.south)+(#2,0)$) -- ($(#3 |- #1.south)+(0,{-(\SemesterSpacing-\CourseHeight)})$)
     -- ($(#3 |- #4.north)+(0,{\SemesterSpacing-\CourseHeight})$) -- (#4);%
+}
+% \longroutelevels{from}{dx}{lane}{to}{first row}{last row}: bend onto the lane
+% at the first row's course tops and off it at the last row's course bottoms.
+% Rows use the same zero-based numbering as \course and \semester.
+\newcommand{\longroutelevels}[6]{%
+  \draw[prerequisite] ($(#1.south)+(#2,0)$)
+    -- (#3 |- 0,{-(#5+0.05)*\SemesterSpacing+\CourseHeight/2})
+    -- (#3 |- 0,{-(#6+0.05)*\SemesterSpacing-\CourseHeight/2}) -- (#4);%
 }
 \endinput

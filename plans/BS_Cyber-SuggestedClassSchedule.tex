@@ -3,8 +3,100 @@
 \section*{Bachelor of Science: Cybersecurity}
 \begin{center}
 Suggested Class Schedule for Computer Science, Math, and Criminal Justice Courses.
-% \def\svgwidth{0.9\textwidth}
-% \input{./images/PrerequisiteDiagram_BS_ComputerScience.pdf_tex}
 
-\includegraphics[width=0.86\textwidth]{images/PrerequisiteDiagram_BS_Cybersecurity}
+% \begingroup
+% \renewcommand{\SemesterLabelX}{11}
+% \renewcommand{\RowRuleEnd}{21.7}
+% \resizebox{\textwidth}{!}{%
+\begin{tikzpicture}[x=1cm,y=1cm]
+%   \draw[black,line width=1pt,rounded corners=4pt] (-1,1.5) rectangle (21.7,-18.5);
+  \draw[black,line width=1pt,rounded corners=4pt] (-1,1.6) rectangle (18,{1.5-8*\SemesterSpacing});
+  
+  % ===== Semester labels and separators =====
+  \semester{0}{Freshman Fall}
+  \semester{1}{Freshman Spring}
+  \semester{2}{Sophomore\newline{}Fall}
+  \semester{3}{Sophomore\newline{}Spring}
+  \semester{4}{Junior\newline{}Fall}
+  \semester{5}{Junior Spring}
+  \semester{6}{Senior Fall}
+  \semester{7}{Senior Spring}
+  \foreach \i in {0,...,6}{\rowrule{\i}}
+
+  % ===== Course catalog and placement =====
+  \course{math110}{1.25}{0}{MATH 110/111}{College Algebra}
+  \course{csci217}{7}{0}{CSCI 217}{Practical Programming\\\& Problem Solving}
+  \course{csci215}{11}{0}{CSCI 215}{Programming in Alice}
+
+  \course{math130}{1.25}{1}{MATH 130}{Precalculus}
+  \course{csci235}{9}{1}{CSCI 235}{Procedural Programming}
+  \course{crim210}{16.05}{1}{CRIM 210}{Introduction to\\Criminal Justice}
+
+  \course{math221}{1.25}{2}{MATH 221}{Calculus I}
+  \course{csci301}{8.65}{2}{CSCI 301}{Survey of\\Scripting Languages}
+  \course{csci332}{12.35}{2}{CSCI 332}{Applied Networking}
+  \course{crim227}{16.05}{2}{CRIM 227}{Critical Thinking\\and Writing in CRIM}
+
+  \course{math330}{1.25}{3}{MATH 330}{Discrete Mathematics}
+  \course{csci325}{4.95}{3}{CSCI 325}{Object-Oriented\\Programming}
+  \course{csci352}{8.65}{3}{CSCI 352}{Cyber Defense}
+  \course{csci433}{12.35}{3}{CSCI 433}{Network Security}
+
+  \course{csci405}{3.25}{4}{CSCI 405}{Principles of\\Cybersecurity}
+  \course{csci496}{12.35}{4}{CSCI 496}{Senior Portfolio Review}
+  \course{crim212}{16.05}{4}{CRIM 212}{Techniques of\\Criminal Investigations}
+
+  \course{math213}{1.25}{5}{MATH 213}{Probability\\and Statistics}
+  \course{csci330}{4.95}{5}{CSCI 330}{Computer Architecture}
+  \course{csci497}{15.05}{5}{CSCI 497}{Senior Project Design}
+
+  \course{csci490}{1.25}{6}{CSCI 490}{Computer Science\\Exit Exam}
+  \course{csci498}{15.05}{6}{CSCI 498}{Senior Project\\Construction}
+
+  \course{csci452}{8.65}{7}{CSCI 452}{Network Penetration\\and Ethical Hacking}
+  \course{csci499}{15.05}{7}{CSCI 499}{Senior Project\\Implementation/Defense}
+
+  % ===== Alternative course grouping =====
+  \node[alternative,fit=(csci217)(csci215)] (introchoice) {};
+  \node[note] at ($(csci217.east)!.5!(csci215.west)$) {or};
+
+  % ===== Prerequisite edges =====
+  \draw[prerequisite] (math110.east) -- (csci217.west);
+  \prereq{math110}{math130}
+  \prereq{math110}{csci235}
+  \draw[prerequisite] (introchoice) -- (csci235) node[pos=1,note,anchor=south west,xshift=0.25em] {or Instructor's Permission};
+  \prereq{math130}{math221}
+  \prereq{math221}{math330}
+  \prereq{csci235}{csci301}
+  \prereq{csci235}{csci332}
+  \prereq{csci301}{csci352}
+  \prereq{csci301}{csci433}
+  \prereq{csci332}{csci433}
+  \draw[prerequisite] ($(crim210.south)+(-0.25,0)$) -- ($(crim227.north)+(-0.25,0)$);
+  \prereq{csci330}{csci452}
+  \prereq{csci497}{csci498}
+  \prereq{csci498}{csci499}
+  \draw[prerequisite] ($(crim227.south)+(-0.25,0)$) -- ($(crim212.north)+(-0.25,0)$);
+
+  % Long routes use the gaps between course columns.
+  \coordinate (laneWest) at (-0.75,0);
+  \coordinate (lane405) at ($(math330.east)!.5!(csci325.west)$);
+  \coordinate (lane325) at (csci325.east);
+  \coordinate (lane405East) at ($(csci405.east) + (csci325.west) - (math330.east)$);
+%   \coordinate (laneMath330) at (2.4,0);
+  \coordinate (laneMath330) at (math330);
+  \coordinate (lane452) at (14.2,0);
+%   \coordinate (laneCrime) at (17.95,0);
+  \longroute{math110}{-0.7}{laneWest}{math213}
+  \longroutelevels{csci235}{-1.1}{lane405}{csci405}{3}{3}
+  \longroute{csci235}{-0.7}{lane325}{csci325}
+  \longroute{math330}{0}{laneMath330}{csci330}
+  \longroute{csci325}{0.25}{lane405East}{csci330}
+  \longroutelevels{csci332}{0.5}{lane452}{csci452}{3}{4}
+%   \longroute{crim227}{-0.5}{laneCrime}{crim212}
+  \node[note,anchor=south] at (csci496.north) {Instructor's Permission};
+  \node[note,anchor=south] at (csci497.north) {Instructor's Permission};
+\end{tikzpicture}%
+% }
+% \endgroup
 \end{center}

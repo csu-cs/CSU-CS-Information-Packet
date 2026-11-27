@@ -187,7 +187,7 @@
 % Use a form check box for an editable pdf
 \newcounter{checkNum}% Count each checkbox so we can give them unique form-field names.
 \setlist[checklist]{
-	label=\stepcounter{checkNum}\setlength{\fboxsep}{1pt}\fbox{\CheckBox[width=0.6em,height=0.6em,name=box\thecheckNum,borderwidth=0bp]{\ignorespaces}},
+	label={\stepcounter{checkNum}\setlength{\fboxsep}{1.5pt}\setlength{\fboxrule}{0.5pt}\fbox{\CheckBox[width=0.5em,height=0.5em,name=box\thecheckNum,borderwidth=0bp]{\ignorespaces}}},
 	topsep=0.5ex, itemsep=0.25ex, parsep=0ex,%
 	left=0em, itemindent=-1.415em, % Controls the indent on the second line. Tried to match the width of "(3)"
 }
@@ -200,7 +200,7 @@
 \setlist[enumerate]{topsep=0.5ex, itemsep=0ex, parsep=0ex}
 \setlist[itemize]{topsep=0.5ex, itemsep=0ex, parsep=0ex,
 	left=0em, % same as checklist so bullets line up with the checkboxes
-	label=\makebox[\dimexpr0.6em+2pt+2\fboxrule\relax][c]{\textbullet}, % checkbox width: 0.6em + 2*(fboxsep=1pt) + frame
+	label=\makebox[\dimexpr0.5em+4pt\relax][c]{\textbullet}, % checkbox width
 }
 \setlist[description]{topsep=0.5ex, itemsep=0ex, parsep=0ex}
 
